@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TestCase with Assertion</description>
+   <name>Multiply Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ead3204c-b0e0-455a-bb53-fa2b7b94c87b</testCaseGuid>
+</TestCaseEntity>
